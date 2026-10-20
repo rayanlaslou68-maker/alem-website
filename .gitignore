@@ -1,0 +1,16 @@
+# Secrets (App password + DB password)
+start.bat
+.env
+.env.*
+
+# Dependencies and build output
+node_modules/
+dist/
+
+# Runtime files
+backend/storage/
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
