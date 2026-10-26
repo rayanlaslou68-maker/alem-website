@@ -14,3 +14,5 @@ backend/storage/
 # System files
 .DS_Store
 Thumbs.db
+frontend/start.bat
+backend/.env
